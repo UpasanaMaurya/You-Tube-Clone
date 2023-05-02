@@ -1,0 +1,28 @@
+.col-sm-3{
+    width: 16em;
+    margin: 1em;
+    background-color:rgba(1, 42, 19, 0.231);
+    color: beige;
+    border-radius: 20px;
+} 
+img{
+    width: 100%;
+    border: 1px solid lavender;
+    border-radius:8px;
+}
+.title{
+    font-weight:bold;
+    margin-top:0em;
+    margin-bottom:0.1em;
+    color:rgb(210, 9, 9)
+
+}
+.channel{
+    margin-top: 0em;
+    margin-bottom:0em;
+}
+.views h6{
+    margin-top: 0em;
+    color: blueviolet;
+
+}

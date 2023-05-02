@@ -1,0 +1,16 @@
+.darkMode{
+background-color: black;
+color:white
+}
+.lightMode{
+  background-color: aliceblue;
+  color: #000;
+}
+.lightMode button{
+  background-color: aliceblue;
+  color: #000;
+}
+.darkMode button{
+  background-color: black;
+  color:white
+  }
